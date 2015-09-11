@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "description": "An example AngularJS project",
     "readme": "README.md",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "git@github.com:marcodemoja/angularjs-test-app.git"

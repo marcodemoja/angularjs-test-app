@@ -1,0 +1,127 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'c:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose readDependencies loading dependencies from e:\xammp\htdocs\angularjs-test-app\package.json
+5 verbose install where, deps [ 'e:\\xammp\\htdocs\\angularjs-test-app',
+5 verbose install   [ 'grunt',
+5 verbose install     'grunt-contrib-concat',
+5 verbose install     'grunt-contrib-copy',
+5 verbose install     'grunt-contrib-jshint',
+5 verbose install     'grunt-contrib-nodeunit',
+5 verbose install     'grunt-contrib-uglify',
+5 verbose install     'grunt-contrib-watch',
+5 verbose install     'grunt-jsdoc',
+5 verbose install     'grunt-exec',
+5 verbose install     'grunt-karma',
+5 verbose install     'karma',
+5 verbose install     'karma-jasmine',
+5 verbose install     'karma-phantomjs-launcher' ] ]
+6 verbose install where, peers [ 'e:\\xammp\\htdocs\\angularjs-test-app', [] ]
+7 verbose installManyTop reading for lifecycle e:\xammp\htdocs\angularjs-test-app\package.json
+8 info preinstall angularjs-test-app@0.0.1
+9 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt\package.json
+10 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-concat\package.json
+11 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-copy\package.json
+12 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-jshint\package.json
+13 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-nodeunit\package.json
+14 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-uglify\package.json
+15 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-watch\package.json
+16 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-exec\package.json
+17 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-jsdoc\package.json
+18 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-karma\package.json
+19 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\karma\package.json
+20 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\karma-jasmine\package.json
+21 verbose installManyTop reading scoped package data from e:\xammp\htdocs\angularjs-test-app\node_modules\karma-phantomjs-launcher\package.json
+22 info package.json karma-phantomjs-launcher@0.1.4 No README data
+23 info package.json grunt@0.4.2 No license field.
+24 info package.json grunt-contrib-concat@0.3.0 No license field.
+25 info package.json grunt-contrib-jshint@0.8.0 No license field.
+26 info package.json grunt-contrib-copy@0.5.0 No license field.
+27 info package.json grunt-contrib-uglify@0.2.2 No license field.
+28 info package.json grunt-contrib-nodeunit@0.3.0 No license field.
+29 info package.json grunt-contrib-watch@0.5.3 No license field.
+30 info package.json grunt-jsdoc@0.5.4 No license field.
+31 info package.json grunt-exec@0.4.5 No license field.
+32 verbose readDependencies loading dependencies from e:\xammp\htdocs\angularjs-test-app\package.json
+33 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt\package.json
+34 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-concat\package.json
+35 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-copy\package.json
+36 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-jshint\package.json
+37 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-nodeunit\package.json
+38 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-uglify\package.json
+39 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-contrib-watch\package.json
+40 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-exec\package.json
+41 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-jsdoc\package.json
+42 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\grunt-karma\package.json
+43 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\karma\package.json
+44 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\karma-jasmine\package.json
+45 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\karma-phantomjs-launcher\package.json
+46 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\.bin\grunt-jsdoc\package.json
+47 verbose targetResolver reading package data from e:\xammp\htdocs\angularjs-test-app\node_modules\.bin\grunt-jsdoc.cmd\package.json
+48 verbose already installed skipping grunt-contrib-nodeunit@0.3.0 e:\xammp\htdocs\angularjs-test-app
+49 verbose already installed skipping grunt-contrib-uglify@0.2.2 e:\xammp\htdocs\angularjs-test-app
+50 verbose already installed skipping grunt-contrib-watch@0.5.3 e:\xammp\htdocs\angularjs-test-app
+51 verbose already installed skipping grunt-jsdoc@0.5.4 e:\xammp\htdocs\angularjs-test-app
+52 verbose already installed skipping grunt-exec@0.4.5 e:\xammp\htdocs\angularjs-test-app
+53 verbose already installed skipping grunt-karma@0.8.3 e:\xammp\htdocs\angularjs-test-app
+54 verbose already installed skipping karma@0.12.16 e:\xammp\htdocs\angularjs-test-app
+55 verbose already installed skipping karma-jasmine@0.1.5 e:\xammp\htdocs\angularjs-test-app
+56 verbose already installed skipping karma-phantomjs-launcher@0.1.4 e:\xammp\htdocs\angularjs-test-app
+57 verbose already installed skipping grunt@0.4.2 e:\xammp\htdocs\angularjs-test-app
+58 verbose already installed skipping grunt-contrib-concat@0.3.0 e:\xammp\htdocs\angularjs-test-app
+59 verbose already installed skipping grunt-contrib-copy@0.5.0 e:\xammp\htdocs\angularjs-test-app
+60 verbose already installed skipping grunt-contrib-jshint@0.8.0 e:\xammp\htdocs\angularjs-test-app
+61 silly install resolved []
+62 info build e:\xammp\htdocs\angularjs-test-app
+63 info linkStuff angularjs-test-app@0.0.1
+64 silly linkStuff angularjs-test-app@0.0.1 has e:\xammp\htdocs as its parent node_modules
+65 verbose linkBins angularjs-test-app@0.0.1
+66 verbose linkMans angularjs-test-app@0.0.1
+67 verbose rebuildBundles angularjs-test-app@0.0.1
+68 verbose rebuildBundles [ '.bin',
+68 verbose rebuildBundles   'grunt',
+68 verbose rebuildBundles   'grunt-contrib-concat',
+68 verbose rebuildBundles   'grunt-contrib-copy',
+68 verbose rebuildBundles   'grunt-contrib-jshint',
+68 verbose rebuildBundles   'grunt-contrib-nodeunit',
+68 verbose rebuildBundles   'grunt-contrib-uglify',
+68 verbose rebuildBundles   'grunt-contrib-watch',
+68 verbose rebuildBundles   'grunt-exec',
+68 verbose rebuildBundles   'grunt-jsdoc',
+68 verbose rebuildBundles   'grunt-karma',
+68 verbose rebuildBundles   'karma',
+68 verbose rebuildBundles   'karma-jasmine',
+68 verbose rebuildBundles   'karma-phantomjs-launcher' ]
+69 info install angularjs-test-app@0.0.1
+70 info postinstall angularjs-test-app@0.0.1
+71 verbose unsafe-perm in lifecycle true
+72 info angularjs-test-app@0.0.1 Failed to exec postinstall script
+73 verbose stack Error: angularjs-test-app@0.0.1 postinstall: `bower install`
+73 verbose stack Exit status 1
+73 verbose stack     at EventEmitter.<anonymous> (c:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:213:16)
+73 verbose stack     at EventEmitter.emit (events.js:110:17)
+73 verbose stack     at ChildProcess.<anonymous> (c:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+73 verbose stack     at ChildProcess.emit (events.js:110:17)
+73 verbose stack     at maybeClose (child_process.js:1015:16)
+73 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+74 verbose pkgid angularjs-test-app@0.0.1
+75 verbose cwd e:\xammp\htdocs\angularjs-test-app
+76 error Windows_NT 6.1.7601
+77 error argv "c:\\Program Files\\nodejs\\node.exe" "c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+78 error node v0.12.7
+79 error npm  v2.11.3
+80 error code ELIFECYCLE
+81 error angularjs-test-app@0.0.1 postinstall: `bower install`
+81 error Exit status 1
+82 error Failed at the angularjs-test-app@0.0.1 postinstall script 'bower install'.
+82 error This is most likely a problem with the angularjs-test-app package,
+82 error not with npm itself.
+82 error Tell the author that this fails on your system:
+82 error     bower install
+82 error You can get their info via:
+82 error     npm owner ls angularjs-test-app
+82 error There is likely additional logging output above.
+83 verbose exit [ 1, true ]
